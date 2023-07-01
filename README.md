@@ -24,9 +24,6 @@ The Panoptic Segmentation model in this repository combines semantic segmentatio
 
 1. Clone the repository:
 
-```
-git clone https://github.com/aryuemaan/panoptic-segmentation-autonomous-car.git
-```
 
 2. Install the required dependencies:
 
